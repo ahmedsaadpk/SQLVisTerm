@@ -7,7 +7,7 @@ Few months ago I was looking for a simple SQL terminal client which can do some 
 
 ### **System Requirements**
 
-1. **Java 8** must be installed on your machine. I havent' tested it on higher versions of Java.
+1. **Java 8** must be installed on your machine. I haven't tested it on higher versions of Java.
 2. **lib** folder already contains 3 JDBC drivers (SQLite, MariaDB for MySQL, and AWS Redshift). If you want to connect to any other database then put the relevant JDBC driver in the lib folder.
 3. **db** folder contains 2 sample SQLite databases (northwind.db and chinook.db)
 4. **app.ini** in the root folder has SQLite connection parameters for northwind database. It also has commented-out connection parameters for AWS Redshift and MySQL with dummy values.
