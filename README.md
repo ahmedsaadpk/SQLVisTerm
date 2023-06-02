@@ -119,6 +119,18 @@ You can see that the column **total_orders** is still hidden even though it was 
 To undo the behavior of **lock hidden** use the command **unlock hidden**
 
 
+### **Showing Statistics**
+
+The program can display common statistics under each column which are **Min, Max, Mean, Standard Deviation, Variance and Population Variance**. To show these, type **stats on** and enter. Results will render again but this time these stats will also display under each column as this:
+
+![image](https://github.com/ahmedsaadpk/SQLVisTerm/assets/7383719/c9570213-d4d7-4e45-9c13-ef8175943805)
+
+
+### **Hiding Statistics**
+
+Type **stats off** and hit enter.
+
+
 ### **Query Log**
 
 All queries and their results are written to a file **query.log**. For now it's your responsibility to keep an eye on its size but in future file rolling will be implemented and when the size of the file will reach 1 MB, a new file will be created.
