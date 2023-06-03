@@ -138,7 +138,7 @@ All queries and their results are written to a file **query.log**. For now it's 
 
 ### **Adding Comments To Query Log**
 
-You can tag queries and their results with coments. These comments are written to **query.log**. For this purpose you can the **double-slash** syntax. For example type **//Order By Country** and enter. It will not be executed as a SQL query or a command, but it will be appended to query.log.
+You can tag queries and their results with comments. These comments are written to **query.log**. For this purpose you can the **double-slash** syntax. For example type **//Order By Country** and enter. It will not be executed as a SQL query or a command, but it will be appended to query.log.
 
 ![image](https://github.com/ahmedsaadpk/SQLVisTerm/assets/7383719/32d7e3e3-32f0-4325-a668-4c5d0fb848da)
 
