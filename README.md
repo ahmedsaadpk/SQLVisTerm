@@ -19,6 +19,7 @@ Run below on the command prompt:
 
 _git clone https://github.com/ahmedsaadpk/SQLVisTerm_
 
+Or download the zip file.
 
 ### **Running The Program**
 
