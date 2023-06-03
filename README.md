@@ -24,7 +24,7 @@ _git clone https://github.com/ahmedsaadpk/SQLVisTerm_
 
 On **Windows**, use **run.bat** present in the root folder. Either double-click it or open command prompt, then navigate to the project folder, type _run.bat_ and hit enter.
 
-On **Linux**, use **run.sh** present in the root folder. Navigate to the project folder, type _./run.sh_ or _sh run.sh_ and hit enter.
+On **Linux**, use **run.sh** present in the root folder. Navigate to the project folder, type **_./run.sh_** or **_sh run.sh_** and hit enter.
 
 By default it will be connected to SQLite database northwind. This can be changed by editing **app.ini** present in the root folder of the project. However northwind is a good database to demonstrate the features of SQLVisTerm.
 
