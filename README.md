@@ -148,7 +148,7 @@ You can tag queries and their results with comments. These comments are written 
 Type **exit** or **quit** and enter.
 
 
-### **Reading query.log**
+### **Reading Query Log**
 
 In my experience, Linux **cat** command renders the bars correctly. Use it with **grep** to find something in it. For example:
 
