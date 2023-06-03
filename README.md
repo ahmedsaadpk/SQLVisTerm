@@ -145,7 +145,7 @@ You can tag queries and their results with comments. These comments are written 
 
 ### **Exit / Quit**
 
-type **exit** or **quit** and enter.
+Type **exit** or **quit** and enter.
 
 
 ### **Reading query.log**
