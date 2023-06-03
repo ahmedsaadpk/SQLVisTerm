@@ -56,7 +56,7 @@ _exclude=rank,year,id,employeeid_
 
 Above configuration setting contains a comma separted list of column names on which bars are not desired.
 
-Save **app.ini**, quit by typing **quit** or **exit**, and re-run it. Try the same SQL and now it shouldn't display bars in the EmployeeID column:
+Save **app.ini**, quit the program by typing **quit** or **exit**, and re-run it. Try the same SQL and now it shouldn't display bars in the EmployeeID column:
 
 ![image](https://github.com/ahmedsaadpk/SQLVisTerm/assets/7383719/cf1a4d32-72a6-48fa-a313-55c02fafdfc8)
 
