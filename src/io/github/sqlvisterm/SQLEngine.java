@@ -66,6 +66,7 @@ public class SQLEngine {
         try {
             conn = DriverManager.getConnection(HOST, USER, PASS);
             stmt = conn.createStatement();
+            System.out.println("Connected to " + HOST);
         } catch (SQLException e) {
             e.printStackTrace();
         }
