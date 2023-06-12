@@ -2,6 +2,8 @@
 
 ## **SQL Terminal Client (JDBC) With Data Visualization**
 
+![SQLTerm1](https://github.com/ahmedsaadpk/SQLVisTerm/assets/7383719/38fc995e-4f75-4230-ba8f-1251c53d37ba)
+
 Few months ago I was looking for a simple SQL terminal client which can do some basic visualization of the data as well. But found none and hence developed this. It uses Jline3 and its example code to provide standard terminal functionality while the database communication and rendering of the results is implemented by the program. It is reasonably good for my own use but improvements are possible which I will be doing as needed.
 
 
